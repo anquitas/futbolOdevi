@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="futbolForm.Form1" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAiADACAAEAAIABGAMAAGAEQAFgADAw0IA7DAAAc=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="futbolForm.Program" Collapsed="true">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oyuncular.Bek">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Oyuncular\Bek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oyuncular.Forvet">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Oyuncular\Forvet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oyuncular.Kaleci">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Oyuncular\Kaleci.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oyuncular.OnLibero">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Oyuncular\OnLibero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oyuncular.OrtaSaha">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Oyuncular\OrtaSaha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oyuncular.Oyuncu">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAEACAAAAAIAAEAAAgAAAAAAACAAAAACEAA=</HashCode>
+      <FileName>Oyuncular\Oyuncu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oyuncular.Stoper">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Oyuncular\Stoper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="futbolForm.Properties.Resources" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="futbolForm.Properties.Settings" Collapsed="true">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yetenekler.Atak" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAAAAAAAAAAAAgJAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Yetenekler\Atak.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Yetenekler.Calım" BaseTypeListCollapsed="true">
+    <Position X="18" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAAAAAAAAAAAAgJAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Yetenekler\Calım.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Yetenekler.KaleyeSut" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAAAAAAAAAAAAgJAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Yetenekler\KaleyeSut.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Yetenekler.OrtaAt" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAAAAAAAAAAAAgJAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Yetenekler\OrtaAt.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Yetenekler.Pas" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAAAAAAAAAAAAgJAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Yetenekler\Pas.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Yetenekler.TopKap" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAAAAAAAAAAAAgJAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Yetenekler\TopKap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Yetenekler.TopYakala" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAAAAAAAAAAAAgJAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Yetenekler\TopYakala.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Yetenekler.IYetenek">
+    <Position X="14.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAgBAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Yetenekler\IYetenek.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Oyuncular.Pozisyon" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAgAAABAAAEQAAAAAAAAAAgA=</HashCode>
+      <FileName>Oyuncular\Oyuncu.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Yetenekler.yetenek" Collapsed="true">
+    <Position X="16" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAIAAEAAAAACAAAAAAQAAAAAAEAA=</HashCode>
+      <FileName>Yetenekler\IYetenek.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
